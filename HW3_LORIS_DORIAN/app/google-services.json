@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421904362613",
+    "project_id": "hw3loris",
+    "storage_bucket": "hw3loris.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421904362613:android:b9bfff1856753fdd98dc3c",
+        "android_client_info": {
+          "package_name": "com.example.hw3_loris_dorian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421904362613-ek9t5rfjna17b6f45h0p7epuqq2fj6qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPQtnVi9ou6h2w4ldHL3ge4MR98026b0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421904362613-ek9t5rfjna17b6f45h0p7epuqq2fj6qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

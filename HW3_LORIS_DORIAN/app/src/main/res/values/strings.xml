@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CSUSM</string>
+    <string name="ButtonLogin">Login</string>
+    <string name="ButtonSignup">Signup</string>
+    <string name="Login_Activity">Login</string>
+    <string name="Signup_Activity">Signup</string>
+</resources>
