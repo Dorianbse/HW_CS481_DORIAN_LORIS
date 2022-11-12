@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW2_DORIAN_BEASSE</string>
+    <string name="btn_bar">Bar</string>
+    <string name="btn_line">Line</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
